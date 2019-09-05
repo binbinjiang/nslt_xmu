@@ -1,0 +1,1 @@
+python3 -m nmt --out_dir=<your_model_dir> --inference_input_file=<input_video_paths.sign> --inference_output_file=<predictions.de> --inference_ref_file=<ground_truth.de> --base_gpu=<gpu_id>
